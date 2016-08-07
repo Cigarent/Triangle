@@ -190,6 +190,8 @@ a.navbar, a.btn, a.page-scroll {
 .light {
   font-weight: 400;
 }
+
+/* Navbar */
 .navbar-custom {
   margin-bottom: 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
@@ -255,6 +257,15 @@ a.navbar, a.btn, a.page-scroll {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   }
 }
+.navbar-brand{
+    line-height: 0;
+}
+a.navbar-brand{
+    padding-top: 0;
+    height: 50px;
+}
+
+/* Hero */
 .intro {
   display: table;
   width: 100%;
@@ -271,8 +282,8 @@ a.navbar, a.btn, a.page-scroll {
 }
 .text-background-intro{
   border-radius: 20px;
-  padding-bottom: 20px;
-  background-color: rgba(127, 0, 0, 0.4);
+  padding: 30px 20px 30px 20px;
+  background-color: rgba(127, 0, 0, 0.5);
 }
 .intro .intro-body {
   display: table-cell;
@@ -280,6 +291,7 @@ a.navbar, a.btn, a.page-scroll {
 }
 .intro .intro-body .brand-heading {
   font-size: 40px;
+  font-family: cursive;
 }
 .intro .intro-body .intro-text {
   font-size: 18px;
@@ -287,13 +299,13 @@ a.navbar, a.btn, a.page-scroll {
 @media (min-width: 768px) {
   .intro {
     height: 100%;
-    padding: 0;
+    padding: 15px;
   }
   .intro .intro-body .brand-heading {
-    font-size: 100px;
+    font-size: 60px;
   }
   .intro .intro-body .intro-text {
-    font-size: 26px;
+    font-size: 24px;
   }
 }
 .btn-circle {
