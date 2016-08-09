@@ -243,7 +243,6 @@ a.navbar, a.btn, a.page-scroll {
 }
 @media (min-width: 768px) {
   .navbar-custom {
-    padding: 5px 0;
     border-bottom: none;
     letter-spacing: 1px;
     background: #7F0000;
@@ -280,6 +279,13 @@ a.navbar-brand{
   background-size: cover;
   -o-background-size: cover;
 }
+.about-intro{
+  height: 60%;
+  margin-bottom: 20px;
+  background-image: url(../images/aboutus.jpg);
+  background-position: 60% 60%;
+}
+
 .text-background-intro{
   border-radius: 20px;
   padding: 30px 20px 30px 20px;
@@ -301,6 +307,9 @@ a.navbar-brand{
     height: 100%;
     padding: 15px;
   }
+  .about-intro{
+    height: 60%
+  }
   .intro .intro-body .brand-heading {
     font-size: 60px;
   }
@@ -308,6 +317,9 @@ a.navbar-brand{
     font-size: 24px;
   }
 }
+
+
+/* Sections */
 .btn-circle {
   width: 70px;
   height: 70px;
@@ -428,6 +440,10 @@ a.navbar-brand{
   color: white;
   background-color: #7F0000;
 }
+
+/* */
+
+/* Social Media */
 ul.banner-social-buttons {
   margin-top: 0;
 }
@@ -446,6 +462,8 @@ ul.banner-social-buttons {
     margin-bottom: 0;
   }
 }
+
+/* footer */
 footer {
   padding: 50px 0;
 }
