@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include("includes.php"); ?>
+<?php include("includes.php");
+      printHead('<link href="css/index.css" rel="stylesheet">');?>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
     <!-- Navigation -->
     <?php include("header.php");
-          printHead(0);?>
+          printNav(0);?>
 
 
     <!-- Intro Header -->
@@ -93,11 +94,7 @@
     </div>
 
     <!-- Footer -->
-    <footer>
-        <div class="container text-center">
-            <p>Copyright &copy; 2016 Triangle Fraternity - Univeristy of Wisconsin, Madison</p>
-        </div>
-    </footer>
+    <?php printFooter(); ?>
 
     <!-- jQuery -->
     <script src="res/jquery/jquery.js"></script>

@@ -1,6 +1,6 @@
 <?php
 
-function printHead($home){
+function printNav($home){
 
 $hrefList=array("index.php","about.php","rush.php","contact.php");
 $hrefActive =array("","","","");
