@@ -3,7 +3,7 @@
 
 	<head>
 		<title>Triangle UW-Madison</title>
-		
+
 		<?php include("includes.php"); ?>
 
 	</head>
@@ -15,7 +15,7 @@
 		<div id="content" align="center">
 		<h1>UPCOMING EVENTS</h1>
                 <h3>All events at 6:30pm unless otherwise specified</h3>
-		
+
 		<h3>1/22 BOWLING @ The Sett</h3>
 		<p>A great place to hang out with friends and brothers alike is the Sett! Stop on by to enjoy some pizza and bowling with Triangle Fraternity!</p>
 		<h3>1/25 INFO SESSION @ Triangle</h3>
@@ -66,4 +66,3 @@
 	</body>
 
 </html>
-			

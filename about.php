@@ -24,7 +24,7 @@
       </div>
     </div>
 
-    <div  id="aboutus-page" class="container history-intro">
+    <div  id="about-page" class="container history-intro">
       <div  class="well">
 
         <!-- History -->

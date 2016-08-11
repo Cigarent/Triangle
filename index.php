@@ -80,7 +80,7 @@
                         <a href="#" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">FACEBOOK</span></a>
                     </li>
                     <li>
-                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-child fa-fw"></i> <span class="network-name">WIN Network</span></a>
+                        <a href="contact.php" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-fw"></i> <span class="network-name">subscribe</span></a>
                     </li>
                 </ul>
             </div>
