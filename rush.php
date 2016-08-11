@@ -1,16 +1,54 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
 
-	<head>
-		<title>Triangle UW-Madison</title>
+<html lang="en">
 
-		<?php include("includes.php"); ?>
+<?php include 'includes.php';
+      printHead();?>
 
-	</head>
+<body>
 
-	<body align="center">
+    <!-- Navigation -->
+    <?php include 'header.php';
+          printNav(2);?>
 
-		<?php include("header.php"); ?>
+		<!-- Heading -->
+		<div class="intro about-intro">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-1"></div>
+                    <div class="col-md-10 text-background-intro">
+                        <h1 class="brand-heading" style="margin-bottom:0">Rush Triangle</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+		<div class="container">
+	 		<div class="row">
+	 			<div class="col-xs-12 col-sm-6">
+	 				<ul class="event-list">
+	 					<li>
+	 						<time datetime="2014-07-20">
+	 							<span class="day">22</span>
+	 							<span class="month">Jan</span>
+	 							<span class="year">2016</span>
+	 							<span class="time">ALL DAY</span>
+	 						</time>
+
+	 						<div class="info">
+	 							<h2 class="title">BOWLING @ The Sett</h2>
+	 							<p class="desc">A great place to hang out with friends and brothers alike is the Sett! Stop on by to enjoy some pizza and bowling with Triangle Fraternity!</p>
+	 						</div>
+
+	                         <div class="social">
+	     						<ul>
+	 								<li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+	 							</ul>
+	 						</div>
+	 					</li>
+		</ul></div></div></div>
 
 		<div id="content" align="center">
 		<h1>UPCOMING EVENTS</h1>
