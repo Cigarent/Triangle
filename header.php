@@ -8,7 +8,7 @@ $hrefActive =array("","","","");
 if($home==0){
 	$hrefList=array("#page-top","#about","#rush","#contact");
 }
-else{
+elseif ($home<4){
 	$hrefActive[$home]="class=active";
 }
 

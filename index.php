@@ -50,7 +50,7 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <h2>Rush Triangle</h2>
                     <p>Triangle Fraternity is now accepting applications for membership for the Fall 2016 academic term. If you are looking to get involved on campus, serve the community, and develop effective leadership and professional networking experience, this is your opportunity to do so.</p>
-                    <a href="#" class="btn btn-default btn-lg">Visit Rush Page</a>
+                    <a href="rush.php" class="btn btn-default btn-lg">Visit Rush Page</a>
                 </div>
             </div>
         </div>
@@ -59,7 +59,7 @@
     <!-- Contact Section -->
     <section id="contact" class="container content-section text-center">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
+            <div class="col-lg-8">
                 <h2>Contact Us</h2>
                 <div class="row">
                   <div class="col-lg-4 col-lg-offset-2">
@@ -84,14 +84,16 @@
                     </li>
                 </ul>
             </div>
+            <div class="col-lg-4">
+              <!-- Map Section -->
+              <div class="thumbnail" id="map">
+                  <iframe width="100%" height="270" frameborder="1" style="border:0"
+                 src="https://www.google.com/maps/embed/v1/place?q=148%20N%20Breese%20Terrace%2C%20Madison%2C%20WI%2C%20United%20States&key=AIzaSyD9BIQXNjZN61o87Y-GLdTcDgU4DiT0Y68 " allowfullscreen></iframe>
+                </div>
+            </div>
         </div>
     </section>
 
-    <!-- Map Section -->
-    <div id="map">
-      <iframe width="100%" height="300" frameborder="0" style="border:0"
-     src="https://www.google.com/maps/embed/v1/place?q=148%20N%20Breese%20Terrace%2C%20Madison%2C%20WI%2C%20United%20States&key=AIzaSyD9BIQXNjZN61o87Y-GLdTcDgU4DiT0Y68 " allowfullscreen></iframe>
-    </div>
 
     <!-- Footer -->
     <?php printFooter(); ?>
