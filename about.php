@@ -34,7 +34,7 @@
                About Us
              </h3>
              <p>
-                &nbsp;&nbsp;&nbsp;&nbsp;Triangle Fraternity (EST 1907), is a social fraternity exclusively for Engineers, Architects and Scientists. Our purpose is to develop balanced men who cultivate high moral character, foster lifelong friendships and lead lives of integrity. We offer countless leadership opportunities, avenues for community service, scholarships and much, much more. Triangle, thus, provides a bridge between academic life and a career, as well as a foundation for success in the years after college.
+                &nbsp;&nbsp;&nbsp;&nbsp;<a  href="www.triangle.org">Triangle Fraternity</a> (EST 1907), is a social fraternity exclusively for Engineers, Architects and Scientists. Our purpose is to develop balanced men who cultivate high moral character, foster lifelong friendships and lead lives of integrity. We offer countless leadership opportunities, avenues for community service, scholarships and much, much more. Triangle, thus, provides a bridge between academic life and a career, as well as a foundation for success in the years after college.
              </p>
            </div>
            <div class="col-lg-4 col-md-4">
@@ -76,7 +76,7 @@
                The Wisconsin Chapter
              </h3>
              <p>
-                  &nbsp;&nbsp;&nbsp;&nbsp;The University of Wisconsin Madison Chapter was founded in 1913. We own two houses in North Breese Terrace, located right by Camp Randall Stadium. Since its inception, the Wisconsin Chapter has worked to become leaders and positive impact within the UW Madison community. We actively collaberate with out alumni, Triangle National HQ, the Greek Community, and The College of Engineering to ensure our members receive the most out of their collegiate and Triangle experience.
+                  &nbsp;&nbsp;&nbsp;&nbsp;The Wisconsin Chapter was founded in 1913. We currently own two houses in North Breese Terrace, located right by Camp Randall Stadium and College of Engineering. Since its inception, the Wisconsin Chapter has worked to become leaders and positive impact within the UW Madison community. We actively collaberate with out alumni, Triangle National HQ, the Greek Community, and The College of Engineering to ensure our members receive the most out of their collegiate and Triangle experience.
              </p>
            </div>
            <div class="col-lg-4">

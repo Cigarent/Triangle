@@ -507,6 +507,8 @@ body {
 }
 
 .list-head{
+  padding: 2px 4px;
+  border-radius: 5px;
   background-color: rgba(127, 0, 0, 0.8);;
   color: white;
   font-family: cursive;
@@ -576,7 +578,7 @@ margin: 0px;
 .event-list > li > .info > .desc {
 font-size: 13pt;
 font-weight: 300;
-margin: 0px;
+margin: 5px;
 }
 .event-list > li > .info > ul,
 .event-list > li > .social > ul {
@@ -621,7 +623,7 @@ background-color: rgb(200, 200, 200);
   position: relative;
   display: block;
   width: 100%;
-  height: 120px;
+  height: 150px;
   padding: 0px;
 }
 .event-list > li > time,
@@ -639,14 +641,14 @@ background-color: rgb(200, 200, 200);
 }
 .event-list > li > time,
 .event-list > li > img {
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   padding: 5px 0 0 0;
   margin: 0px;
 }
 .event-list > li > .info {
   position: relative;
-  height: 120px;
+  height: 150px;
   text-align: left;
   padding-right: 40px;
 }
