@@ -25,7 +25,7 @@
     </div>
 
     <div  id="about-page" class="container history-intro">
-      <div  class="well">
+      <div class="well">
 
         <!-- History -->
          <div class="row">
