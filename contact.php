@@ -28,10 +28,8 @@
     <div id="contact-page" class="container history-intro">
         <div class="well col-lg-6">
             <!-- subscribe form -->
-            <form id="form" action="#" method="post">
-                <h3>
-						Contact Form
-					</h3>
+            <form id="form" action="mailingList.php" method="post">
+                <h3>	Contact Form	</h3>
                 <div class="row">
                     <div class="col-lg-6 col-md-6">
                         <label class="require-asterisk" for="first_name">First Name</label>
@@ -50,8 +48,14 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-12 col-md-12">
+                        <label for="email">Phone Number</label><small>&nbsp;&nbsp;we recommand potentials to leave their phone numbers for easier contact.</small>
+                        <input class="form-control" type="text" name="phone" >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12 col-md-12">
                         <label for="comment">Comment</label>
-                        <textarea class="form-control" rows="6"></textarea>
+                        <textarea name="comment" class="form-control" rows="6" placeholder="If you just want to get update about rush events, leave this section empty."></textarea>
                     </div>
                 </div>
                 <hr>
