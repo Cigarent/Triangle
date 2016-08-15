@@ -77,10 +77,10 @@
                         <a href="#" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                     </li>
                     <li>
-                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">FACEBOOK</span></a>
+                        <a href="https://www.facebook.com/Triangle-Fraternity-Wisconsin-Chapter-382509701674" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">FACEBOOK</span></a>
                     </li>
                     <li>
-                        <a href="contact.php" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-fw"></i> <span class="network-name">subscribe</span></a>
+                        <a href="contact.php" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-fw"></i> <span class="network-name">Contact</span></a>
                     </li>
                 </ul>
             </div>
@@ -92,6 +92,7 @@
                 </div>
             </div>
         </div>
+        
     </section>
 
 

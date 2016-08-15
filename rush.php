@@ -28,7 +28,7 @@
     <div class="container">
         <div class="row text-center">
             <h1 style="margin-bottom:20px">UPCOMING EVENTS</h1>
-            <p><small>All events at 6:30pm unless otherwise specified</small>
+            <p><small>Potentials: if you would like most recent updates, please <a href="contact.php">sign up here</a>.</small>
                 <p>
         </div>
         <div class="row">
@@ -147,10 +147,10 @@
         <hr>
 
         <div class="text-center">
-            <h1 style="margin-bottom:20px">Frequent Asked Questions</h1>
+            <h1>Frequent Asked Questions</h1>
         </div>
         <div class="well">
-        <div class="row faq text-center">
+        <div id="faq" class="row faq text-center">
           <ul>
             <li><span class="faq-question">Who can join Triangle?</span><br><div class="faq-answer">Any undergraduate student intending to study fields in science, architecture, or engineering. If you're still not sure if your major applies, shoot us an email!</div></li>
             <li><span class="faq-question">Does Triangle Haze?</span><br><div class="faq-answer">Absolutely not. We abhor hazing of any sort and do not tolerate it. Every semester we sign an Anti-Hazing Certificate that indicates we are in compliance with Triangle Fraternity's Policy Statement on Hazing.</div></li>

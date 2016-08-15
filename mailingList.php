@@ -1,27 +1,36 @@
 <?php
-	$name = $_POST["name"];
+	$name = $_POST["first_name"]." ".$_POST["last_name"];
 	$email = $_POST["email"];
+	$phone = $_POST["phone"];
+	$comment = $_POST["comment"];
+	$date = date('Y-m-d');
 
 	$name = clean_input( $name );
 	$email = clean_input( $email );
 
 	const FILENAME = "res/mailingList.csv";
 
-	if(!file_exists(FILENAME)){
-	    file_put_contents(FILENAME, "name,email\n");
+if(!file_exists(FILENAME)){
+	$handle = fopen(FILENAME, 'w') or die('Cannot open file:  '.FILENAME);
+	fwrite($handle, "Name, Email, Phone, Date, Comment\n");
+}else{
+	$handle = fopen(FILENAME, 'a') or die('Cannot open file:  '.FILENAME);
+}
+	fwrite($handle, "$name, $email, $phone, $date, $comment.\n");
+	fclose($handle);
+
+	$message_text = "This is a email informing you that new potential- $name has subscribed to our mailing list. His EMAIL address: $email.";
+
+	if($phone!=""){
+		$message_text.=" PHONE NUMBER is $phone.";
 	}
 
-	$txt = $name.",".$email.$PHP_EOL;
-
-	file_put_contents(FILENAME, $txt.PHP_EOL , FILE_APPEND);
-
-	$message_text = "This is a robotic communication informing you that " . $name . " has subscribed to our mailing list. His email address is " . $email . ".\n\nSincerely,\n\nThe Fruitoftheloins Bot";
-
-	$recipients = "smcmanus2@wisc.edu";
+	// $recipients = "smcmanus2@wisc.edu";
+	$recipients = "xhe66@wisc.edu";
 
 	mail($recipients, "New Potential", $message_text);
 
-	return;
+	header("Location: rush.php");
 
 	function clean_input($data) {
   		$data = trim($data);
@@ -29,4 +38,5 @@
 		$data = htmlspecialchars($data);
   		return $data;
 	}
+
 ?>

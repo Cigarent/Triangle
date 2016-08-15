@@ -71,7 +71,7 @@
                 <div class="col-lg-12 col-md-12">
                     <p>
                         Visit Our National Fraternity Page
-                        <br><a href="#">www.triangle.org</a>
+                        <br><a href="http://www.triangle.org">www.triangle.org</a>
                     </p>
                 </div>
             </div>
@@ -88,8 +88,8 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12">
                     <p>
-                        For Recruitment Info
-                        <br><a href="#">recruitment chair email@email</a>
+                        <i class="fa fa-search" aria-hidden="true"></i> Brother Search
+                        <br><a href="directory.php">Active Brother Directory</a>
                     </p>
                 </div>
             </div>
@@ -97,7 +97,7 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12">
                     <p>
-                        Like Us on  &nbsp;<a href="#" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">FACEBOOK</span></a>
+                        Like Us on  &nbsp;<a href="https://www.facebook.com/Triangle-Fraternity-Wisconsin-Chapter-382509701674" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">FACEBOOK</span></a>
                     </p>
                 </div>
             </div>

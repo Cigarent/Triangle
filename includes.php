@@ -39,6 +39,14 @@ HTML;
 function printFooter(){
 	print '<footer>
         <div class="container text-center">
+				<div class="row text-center">
+          <h5>
+            <span class="list-head">Useful Links:</span>
+              <a href="directory.php">Brother Directory</a> |
+              <a href="echoes.php">Newsletter</a> |
+              <a href="rush.php#faq">FAQ</a>
+          </h5>
+        </div>
             <p>Copyright &copy; 2016 Triangle Fraternity - Univeristy of Wisconsin, Madison</p>
         </div>
     </footer>'

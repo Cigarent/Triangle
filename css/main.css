@@ -102,14 +102,6 @@ form{
   background-color: grey;
 }
 
-td, tr{
-  text-align: center;
-  border-right-style: solid;
-  border-left-style: solid;
-  border-color: black;
-  width: auto;
-}
-
 .drops{
   position: fixed;
   top: 180px;

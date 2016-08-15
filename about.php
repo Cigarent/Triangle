@@ -44,26 +44,34 @@
 
          <hr>
 
-         <!-- Value -->
+         <!-- Code of Ethics -->
          <div class="row our-value">
            <div class="col-lg-4">
-            <img class="img-responsive thumbnail" src="images/service.jpg">
+            <img class="img-responsive thumbnail" src="images/coa.png">
            </div>
            <div class="col-lg-8">
              <h3 style="margin-bottom: 10px">
-               What we offer
+               Values and Code of Ethics
              </h3>
-             <ul>
-               <li><span class="list-head">SUCCEED ACADEMICALLY</span><br>Triangle is serious about scholarship. Preparing yourself for your future career and achieving academic success are your primary goals at the University of Wisconsin-Madison.</li>
+             <p>
+               &nbsp;&nbsp;&nbsp;&nbsp;All Triangle brothers hold themselves to high moral standards and strive to be the best men they can in order to build a better world for tomorrow.  Triangle’s Code of Ethics reflects our fraternity’s beliefs and values.
+             </p>
+             <p>
+               As a member of Triangle, I recognize my obligation to:
+               <ol style="font-size: 17px;">
+                 <li><em>Observe the precepts of the Fraternity as set forth in the Ritual;</em></li>
+                 <li><em>Accept cheerfully my full share of any task, however menial, involved in maintaining a chapter home;</em></li>
+                 <li><em>Preserve and promote the chosen ideals of my Fraternity;</em></li>
+                 <li><em>Pay all personal bills promptly, and always live within my means;</em></li>
+                 <li><em>Help create in my chapter home an environment in which enduring friendships may be formed;</em></li>
+                 <li><em>Maintain a creditable scholastic record;</em></li>
+                 <li><em>Promote the welfare of my profession;</em></li>
+                 <li><em>Maintain my self-respect by proper conduct at all times;</em></li>
+                 <li><em>Uphold faithfully the traditions and program of my Alma Mater;</em></li>
+                 <li><em>Pay the price of success in honest effort.</em></li>
+                 </ol>
+             </p>
 
-               <li><span class="list-head">LEARN TO BECOME A LEADER</span><br>Triangle provides an environment that fosters personal growth and professional success and provides the necessary skills to become an effective leader.</li>
-
-               <li><span class="list-head">UTILIZE LOCAL AND NATIONAL JOB CONNECTIONS</span><br>Triangle's 29 nationwide chapters, 25,000 alumni and more than 100 years of history contribute to our rich traditions. Our national list-serves and message boards allow our alumni to share openings at their companies, in some cases before the jobs are made known to the general public.</li>
-
-               <li><span class="list-head">SOCIALIZE</span><br>Social and athletic participation provides an enhancement to your busy and challenging college curriculum. Triangle is invited and has access to many events, including Homecoming, Greek Week/All Campus Party, formals and more.</li>
-
-               <li><span class="list-head">DEVELOP LIFE LONG FRIENDSHIPS</span><br>Some of your brothers will be your closest friends because you shared experiences, worked together toward common goals and celebrated achievements during your time in school.</li>
-             </li>
            </div>
          </div>
 
