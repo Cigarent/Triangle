@@ -34,7 +34,7 @@
                About Us
              </h3>
              <p>
-                &nbsp;&nbsp;&nbsp;&nbsp;<a  href="www.triangle.org">Triangle Fraternity</a> (EST 1907), is a social fraternity exclusively for Engineers, Architects and Scientists. Our purpose is to develop balanced men who cultivate high moral character, foster lifelong friendships and lead lives of integrity. We offer countless leadership opportunities, avenues for community service, scholarships and much, much more. Triangle, thus, provides a bridge between academic life and a career, as well as a foundation for success in the years after college.
+                &nbsp;&nbsp;&nbsp;&nbsp;<a  href="http://www.triangle.org">Triangle Fraternity</a> (EST 1907), is a social fraternity exclusively for Engineers, Architects and Scientists. Our purpose is to develop balanced men who cultivate high moral character, foster lifelong friendships and lead lives of integrity. We offer countless leadership opportunities, avenues for community service, scholarships and much, much more. Triangle, thus, provides a bridge between academic life and a career, as well as a foundation for success in the years after college.
              </p>
            </div>
            <div class="col-lg-4 col-md-4">
