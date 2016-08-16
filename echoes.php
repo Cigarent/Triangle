@@ -22,4 +22,7 @@
 
 	</body>
 
+  <!-- script -->
+  <?php printScripts(); ?>
+
 </html>

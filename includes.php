@@ -49,8 +49,26 @@ function printFooter(){
         </div>
             <p>Copyright &copy; 2016 Triangle Fraternity - Univeristy of Wisconsin, Madison</p>
         </div>
-    </footer>'
+    </footer>
+		'
 		;
+}
+
+function printScripts(){
+	print '
+			<!-- jQuery -->
+	    <script src="res/jquery/jquery.js"></script>
+
+	    <!-- Bootstrap Core JavaScript -->
+	    <script src="res/bootstrap/js/bootstrap.min.js"></script>
+
+	    <!-- Plugin JavaScript -->
+	    <script src="js/jquery.easing.min.js"></script>
+
+	    <!-- Theme JavaScript -->
+	    <script src="js/main.js"></script>
+			'
+			;
 }
 
 ?>

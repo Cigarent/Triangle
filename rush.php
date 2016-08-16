@@ -162,12 +162,12 @@
       </div>
     </div>
 
-
-
-
     <!-- Footer -->
     <?php printFooter(); ?>
 
 </body>
+
+<!-- script -->
+<?php printScripts(); ?>
 
 </html>
