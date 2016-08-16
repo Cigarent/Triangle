@@ -90,6 +90,16 @@ a.navbar, a.btn, a.page-scroll {
   outline: none;
   background-color: white;
 }
+@media (max-width: 768px) {
+  .navbar-custom .nav li a:hover {
+    color: white;
+    outline: none;
+    background-color: rgba(127, 0, 0, 0.8);
+  }
+  .navbar-custom a {
+    color: #7F0000;
+  }
+}
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a:active {
   outline: none;
@@ -160,7 +170,7 @@ a.navbar-brand{
 }
 .intro .intro-body .brand-heading {
   font-size: 40px;
-  font-family: cursive;
+  font-family: "Times New Roman", Times, serif;
 }
 .intro .intro-body .intro-text {
   font-size: 18px;
@@ -370,11 +380,11 @@ body {
 }
 
 .list-head, .faq-question{
-  padding: 2px 4px;
+  padding: 2px;
   border-radius: 5px;
   background-color: rgba(127, 0, 0, 0.8);;
   color: white;
-  font-family: cursive;
+  font-family: "Times New Roman", Times, serif;
   font-weight: bold;
   font-variant: small-caps;
 }
