@@ -392,7 +392,7 @@ body {
 @media (max-width:768px){
   .list-head, .faq-question{
     color: #7F0000;
-    background-color: transparent;
+    background-color: white;
   }
 }
 
@@ -596,4 +596,11 @@ background-color: rgb(200, 200, 200);
   font-weight: bold;
   font-size: 20px;
   background-color: #7F0000;
+}
+@media (max-width: 768px){
+  .faq-question{
+    font-weight: bold;
+    font-size: 18px;
+    background-color: transparent;
+  }
 }
