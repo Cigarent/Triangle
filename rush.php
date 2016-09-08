@@ -28,87 +28,126 @@
     <div class="container">
         <div class="row text-center">
             <h1 style="margin-bottom:20px">UPCOMING EVENTS</h1>
-            <p><small>Potentials: if you would like most recent updates, please <a href="contact.php">sign up here</a>.</small>
+            <p><b>All events at 6:30pm in <a target="_blank" href="https://goo.gl/maps/D1GhvEenRkQ2">Triangle house</a> unless otherwise specified</b>
+              <hr>Potentials: if you would like most recent updates, please <a href="contact.php">sign up here</a>.
                 <p>
         </div>
         <div class="row">
             <ul class="event-list">
                 <li class="col-sm-6 col-xs-12">
-                    <time datetime="2016-01-27">
-                        <span class="day">27<small class="month">Sept</small></span>
-                        <span class="weekday">Mon</span>
+                    <time datetime="2016-09-06">
+                        <span class="day">6<small class="month">Sept</small></span>
+                        <span class="weekday">Tue</span>
                         <span class="year">2016</span>
                         <span class="time">ALL DAY</span>
                     </time>
 
                     <div class="info">
-                        <h2 class="title">BOWLING @ The Sett</h2>
-                        <p class="desc">A great place to hang out with friends and brothers alike is the Sett! Stop on by to enjoy some pizza and bowling with Triangle Fraternity!</p>
-                    </div>
+                        <h2 class="title">Triangle Open House begins</h2>
+                        <p class="desc">Drop by the house any time between 5-7pm from Sep 6th through Sep 22nd</p><div class="social">
+                      <ul>
+                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+                      </ul>
+                  </div>
+              </li>
 
-                    <div class="social">
-                        <ul>
-                            <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
-                        </ul>
-                    </div>
-                </li>
-                <li class="col-sm-6 col-xs-12">
-                    <time datetime="2016-01-27">
-                        <span class="day">27<small class="month">Sept</small></span>
-                        <span class="weekday">Mon</span>
-                        <span class="year">2016</span>
-                        <span class="time">ALL DAY</span>
-                    </time>
+              <li class="col-sm-6 col-xs-12">
+                  <time datetime="2016-09-08">
+                      <span class="day">8<small class="month">Sept</small></span>
+                      <span class="weekday">Thur</span>
+                      <span class="year">2016</span>
+                      <span class="time">ALL DAY</span>
+                  </time>
 
-                    <div class="info">
-                        <h2 class="title">GAME NIGHT @ Triangle</h2>
-                        <p class="desc">We will be hosting a game night at Triangle Fraternity. If you enjoy Smash Bros, Pool, and other various board games stop on by.</p>
-                    </div>
+                  <div class="info">
+                      <h2 class="title">Tower Building, Info Session </h2>
+                  <p class="desc">Bring your brain and maybe some friends. We'll provide the materials. Stick around after to learn more about us over pizza</p><div class="social">
+                      <ul>
+                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+                      </ul>
+                  </div>
+              </li>
 
-                    <div class="social">
-                        <ul>
-                            <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
-                        </ul>
-                    </div>
-                </li>
-                <li class="col-sm-6 col-xs-12">
-                    <time datetime="2016-01-27">
-                        <span class="day">27<small class="month">Sept</small></span>
-                        <span class="weekday">Mon</span>
-                        <span class="year">2016</span>
-                        <span class="time">ALL DAY</span>
-                    </time>
+              <li class="col-sm-6 col-xs-12">
+                  <time datetime="2016-09-12">
+                      <span class="day">12<small class="month">Sept</small></span>
+                      <span class="weekday">Mon</span>
+                      <span class="year">2016</span>
+                      <span class="time">ALL DAY</span>
+                  </time>
 
-                    <div class="info">
-                        <h2 class="title">INFO SESSION @ Triangle</h2>
-                        <p class="desc">If you were interested by anything and want to learn more about our Fraternity, this is where you want to go.</p>
-                    </div>
+                  <div class="info">
+                      <h2 class="title">Lawn Games, 5:30-8pm @ Engineering Mall</h2>
+                  <p class="desc">Stop by to enjoy some Ultimate Frisbee, Bean Bags, etc</p><div class="social">
+                      <ul>
+                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+                      </ul>
+                  </div>
+              </li>
+              <li class="col-sm-6 col-xs-12">
+                  <time datetime="2016-09-14">
+                      <span class="day">14<small class="month">Sept</small></span>
+                      <span class="weekday">Wed</span>
+                      <span class="year">2016</span>
+                      <span class="time">ALL DAY</span>
+                  </time>
 
-                    <div class="social">
-                        <ul>
-                            <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
-                        </ul>
-                    </div>
-                </li>
-                <li class="col-sm-6 col-xs-12">
-                    <time datetime="2016-01-27">
-                        <span class="day">27<small class="month">Sept</small></span>
-                        <span class="weekday">Mon</span>
-                        <span class="year">2016</span>
-                        <span class="time">ALL DAY</span>
-                    </time>
+                  <div class="info">
+                      <h2 class="title">9/14-15 Org Fair, 5-8pm @ the Kohl Center</h2>
+                  <p class="desc">If you wanna check out what Triangle has to offer among your other options, we'll be there both days</p><div class="social">
+                      <ul>
+                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+                      </ul>
+                  </div>
+              </li>
+              <li class="col-sm-6 col-xs-12">
+                  <time datetime="2016-09-19">
+                      <span class="day">19<small class="month">Sept</small></span>
+                      <span class="weekday">Mon</span>
+                      <span class="year">2016</span>
+                      <span class="time">ALL DAY</span>
+                  </time>
 
-                    <div class="info">
-                        <h2 class="title">Classy Poker Night/Pool Tournament @ Triangle</h2>
-                        <p class="desc">Bring your finest pool face and poker shots to the house to take on Triangles best. Semi-formal attire recommended.</p>
-                    </div>
+                  <div class="info">
+                      <h2 class="title">Game Night </h2>
+                  <p class="desc">We will be hosting a video game, board game, and card game night at Triangle Fraternity. If you enjoy Smash Bros, Pool, and other various board games stop on by</p><div class="social">
+                      <ul>
+                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+                      </ul>
+                  </div>
+              </li>
+              <li class="col-sm-6 col-xs-12">
+                  <time datetime="2016-09-20">
+                      <span class="day">20<small class="month">Sept</small></span>
+                      <span class="weekday">Tue</span>
+                      <span class="year">2016</span>
+                      <span class="time">ALL DAY</span>
+                  </time>
 
-                    <div class="social">
-                        <ul>
-                            <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
-                        </ul>
-                    </div>
-                </li>
+                  <div class="info">
+                      <h2 class="title">Movie Night </h2>
+                  <p class="desc">Experience a cinematic artifact at the house, Tacos will be served as well</p><div class="social">
+                      <ul>
+                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+                      </ul>
+                  </div>
+              </li>
+              <li class="col-sm-6 col-xs-12">
+                  <time datetime="2016-09-22">
+                      <span class="day">22<small class="month">Sept</small></span>
+                      <span class="weekday">Thur</span>
+                      <span class="year">2016</span>
+                      <span class="time">ALL DAY</span>
+                  </time>
+
+                  <div class="info">
+                      <h2 class="title">Grill out </h2>
+                  <p class="desc">Enjoy a hot burger or brat (why not both?) with the brothers</p><div class="social">
+                      <ul>
+                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+                      </ul>
+                  </div>
+              </li>
             </ul>
         </div>
 
