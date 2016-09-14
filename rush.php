@@ -153,6 +153,30 @@
 
         <hr>
 
+        <!-- Change the width and height values to suit you best -->
+      <div class="typeform-widget" data-url="https://cigarent.typeform.com/to/Z45O3G" data-text="Registration Form" style="width:100%;height:400px;"></div>
+      <script>
+          (function() {
+              var qs, js, q, s, d = document,
+                  gi = d.getElementById,
+                  ce = d.createElement,
+                  gt = d.getElementsByTagName,
+                  id = 'typef_orm',
+                  b = 'https://s3-eu-west-1.amazonaws.com/share.typeform.com/';
+              if (!gi.call(d, id)) {
+                  js = ce.call(d, 'script');
+                  js.id = id;
+                  js.src = b + 'widget.js';
+                  q = gt.call(d, 'script')[0];
+                  q.parentNode.insertBefore(js, q)
+              }
+          })()
+      </script>
+      <div class="text-center" style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"><a href="https://www.typeform.com/examples/forms/registration-form-template/?utm_campaign=Z45O3G&amp;utm_source=typeform.com-4556323-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-registrationform&amp;utm_term=EN" style="color: #999"
+              target="_blank">powered by Typeform</a></div>
+
+        <hr>
+
         <div class="text-center">
             <h1 style="margin-bottom:20px">What We Offer</h1>
         </div>
