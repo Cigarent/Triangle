@@ -50,56 +50,6 @@
                       </ul>
                   </div>
               </li>
-
-              <li class="col-sm-6 col-xs-12">
-                  <time datetime="2016-09-08">
-                      <span class="day">8<small class="month">Sept</small></span>
-                      <span class="weekday">Thur</span>
-                      <span class="year">2016</span>
-                      <span class="time">ALL DAY</span>
-                  </time>
-
-                  <div class="info">
-                      <h2 class="title">Tower Building, Info Session </h2>
-                  <p class="desc">Bring your brain and maybe some friends. We'll provide the materials. Stick around after to learn more about us over pizza</p><div class="social">
-                      <ul>
-                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
-                      </ul>
-                  </div>
-              </li>
-
-              <li class="col-sm-6 col-xs-12">
-                  <time datetime="2016-09-12">
-                      <span class="day">12<small class="month">Sept</small></span>
-                      <span class="weekday">Mon</span>
-                      <span class="year">2016</span>
-                      <span class="time">ALL DAY</span>
-                  </time>
-
-                  <div class="info">
-                      <h2 class="title">Lawn Games, 5:30-8pm @ Engineering Mall</h2>
-                  <p class="desc">Stop by to enjoy some Ultimate Frisbee, Bean Bags, etc</p><div class="social">
-                      <ul>
-                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
-                      </ul>
-                  </div>
-              </li>
-              <li class="col-sm-6 col-xs-12">
-                  <time datetime="2016-09-14">
-                      <span class="day">14<small class="month">Sept</small></span>
-                      <span class="weekday">Wed</span>
-                      <span class="year">2016</span>
-                      <span class="time">ALL DAY</span>
-                  </time>
-
-                  <div class="info">
-                      <h2 class="title">9/14-15 Org Fair, 5-8pm @ the Kohl Center</h2>
-                  <p class="desc">If you wanna check out what Triangle has to offer among your other options, we'll be there both days</p><div class="social">
-                      <ul>
-                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
-                      </ul>
-                  </div>
-              </li>
               <li class="col-sm-6 col-xs-12">
                   <time datetime="2016-09-19">
                       <span class="day">19<small class="month">Sept</small></span>
@@ -143,6 +93,38 @@
                   <div class="info">
                       <h2 class="title">Grill out </h2>
                   <p class="desc">Enjoy a hot burger or brat (why not both?) with the brothers</p><div class="social">
+                      <ul>
+                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+                      </ul>
+                  </div>
+              </li>
+              <li class="col-sm-6 col-xs-12">
+                  <time datetime="2016-09-26">
+                      <span class="day">26<small class="month">Sept</small></span>
+                      <span class="weekday">Mon</span>
+                      <span class="year">2016</span>
+                      <span class="time">ALL DAY</span>
+                  </time>
+
+                  <div class="info">
+                      <h2 class="title">Bowling/Pool Night 6:30PM @ Union South</h2>
+                  <p class="desc">Bring your skills and friends, meet us at the Sett Recreation for some fun.</p><div class="social">
+                      <ul>
+                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+                      </ul>
+                  </div>
+              </li>
+              <li class="col-sm-6 col-xs-12">
+                  <time datetime="2016-09-28">
+                      <span class="day">28<small class="month">Sept</small></span>
+                      <span class="weekday">Wed</span>
+                      <span class="year">2016</span>
+                      <span class="time">ALL DAY</span>
+                  </time>
+
+                  <div class="info">
+                      <h2 class="title">Wings Night 6PM @ Triangle</h2>
+                  <p class="desc">Enjoy some wings and talks with Triangle brothers. Who doesn't like some wings?</p><div class="social">
                       <ul>
                           <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
                       </ul>
