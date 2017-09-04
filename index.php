@@ -63,12 +63,12 @@
                 <h2>Contact Us</h2>
                 <div class="row">
                   <div class="col-lg-4 col-lg-offset-2">
-                    <p>Recruitment<br><em>Stephen McManus</em></p>
-                    <p>Phone: 843-709-4585<br><a href="mailto:smcmanus2@wisc.edu">smcmanus2@wisc.edu</a></p>
+                    <p>Recruitment<br><em>Steven Tang</em></p>
+                    <p>Phone: 617-335-5386<br><a href="mailto:rtang37@wisc.edu">rtang37@wisc.edu</a></p>
                   </div>
                   <div class="col-lg-4">
-                    <p>President<br><em>Kevin Clark</em></p>
-                    <p>Phone: 414-793-4032<br><a href="mailto:kwclark@wisc.edu">kwclark@wisc.edu</a></p>
+                    <p>President<br><em>Evan Schertz</em></p>
+                    <p>Phone: 715-370-3949<br><a href="mailto:eshertz@wisc.edu">eschertz@wisc.edu</a></p>
                   </div>
                 </div>
 

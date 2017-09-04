@@ -29,32 +29,48 @@
         <div class="row text-center">
             <h1 style="margin-bottom:20px">UPCOMING EVENTS</h1>
             <p><b>All events at 6:30pm in <a target="_blank" href="https://goo.gl/maps/D1GhvEenRkQ2">Triangle house</a> unless otherwise specified</b>
-              <hr>Potentials: if you would like most recent updates, please <a href="contact.php">sign up here</a>.
+              <hr>Potential members: if you would like most recent updates, please <a href="contact.php">sign up here</a>.
                 <p>
         </div>
         <div class="row">
             <ul class="event-list">
                 <li class="col-sm-6 col-xs-12">
-                    <time datetime="2016-09-06">
-                        <span class="day">6<small class="month">Sept</small></span>
+                    <time datetime="2017-01-17">
+                        <span class="day">17<small class="month">Jan</small></span>
                         <span class="weekday">Tue</span>
-                        <span class="year">2016</span>
+                        <span class="year">2017</span>
                         <span class="time">ALL DAY</span>
                     </time>
 
                     <div class="info">
                         <h2 class="title">Triangle Open House begins</h2>
-                        <p class="desc">Drop by the house any time between 5-7pm from Sep 6th through Sep 22nd</p><div class="social">
+                        <p class="desc">Drop by the house any time between 5-7pm from Jan 17th through Feb 1st</p><div class="social">
                       <ul>
                           <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
                       </ul>
                   </div>
               </li>
               <li class="col-sm-6 col-xs-12">
-                  <time datetime="2016-09-19">
-                      <span class="day">19<small class="month">Sept</small></span>
+                  <time datetime="2017-01-19">
+                      <span class="day">19<small class="month">Jan</small></span>
+                      <span class="weekday">Thur</span>
+                      <span class="year">2017</span>
+                      <span class="time">ALL DAY</span>
+                  </time>
+
+                  <div class="info">
+                      <h2 class="title">Bowling Night </h2>
+                  <p class="desc">Bring your skills and friends, meet us at the Sett Recreation for some fun.</p><div class="social">
+                      <ul>
+                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+                      </ul>
+                  </div>
+              </li>
+              <li class="col-sm-6 col-xs-12">
+                  <time datetime="2017-01-23">
+                      <span class="day">23<small class="month">Jan</small></span>
                       <span class="weekday">Mon</span>
-                      <span class="year">2016</span>
+                      <span class="year">2017</span>
                       <span class="time">ALL DAY</span>
                   </time>
 
@@ -67,64 +83,64 @@
                   </div>
               </li>
               <li class="col-sm-6 col-xs-12">
-                  <time datetime="2016-09-20">
-                      <span class="day">20<small class="month">Sept</small></span>
-                      <span class="weekday">Tue</span>
-                      <span class="year">2016</span>
-                      <span class="time">ALL DAY</span>
-                  </time>
-
-                  <div class="info">
-                      <h2 class="title">Movie Night </h2>
-                  <p class="desc">Experience a cinematic artifact at the house, Tacos will be served as well</p><div class="social">
-                      <ul>
-                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
-                      </ul>
-                  </div>
-              </li>
-              <li class="col-sm-6 col-xs-12">
-                  <time datetime="2016-09-22">
-                      <span class="day">22<small class="month">Sept</small></span>
-                      <span class="weekday">Thur</span>
-                      <span class="year">2016</span>
-                      <span class="time">ALL DAY</span>
-                  </time>
-
-                  <div class="info">
-                      <h2 class="title">Grill out </h2>
-                  <p class="desc">Enjoy a hot burger or brat (why not both?) with the brothers</p><div class="social">
-                      <ul>
-                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
-                      </ul>
-                  </div>
-              </li>
-              <li class="col-sm-6 col-xs-12">
-                  <time datetime="2016-09-26">
-                      <span class="day">26<small class="month">Sept</small></span>
-                      <span class="weekday">Mon</span>
-                      <span class="year">2016</span>
-                      <span class="time">ALL DAY</span>
-                  </time>
-
-                  <div class="info">
-                      <h2 class="title">Bowling/Pool Night 6:30PM @ Union South</h2>
-                  <p class="desc">Bring your skills and friends, meet us at the Sett Recreation for some fun.</p><div class="social">
-                      <ul>
-                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
-                      </ul>
-                  </div>
-              </li>
-              <li class="col-sm-6 col-xs-12">
-                  <time datetime="2016-09-28">
-                      <span class="day">28<small class="month">Sept</small></span>
+                  <time datetime="2017-01-25">
+                      <span class="day">25<small class="month">Jan</small></span>
                       <span class="weekday">Wed</span>
-                      <span class="year">2016</span>
+                      <span class="year">2017</span>
                       <span class="time">ALL DAY</span>
                   </time>
 
                   <div class="info">
-                      <h2 class="title">Wings Night 6PM @ Triangle</h2>
-                  <p class="desc">Enjoy some wings and talks with Triangle brothers. Who doesn't like some wings?</p><div class="social">
+                      <h2 class="title">Movie Night</h2>
+                  <p class="desc">Experience a wonder of the cinema with the brothers at the house</p><div class="social">
+                      <ul>
+                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+                      </ul>
+                  </div>
+              </li>
+              <li class="col-sm-6 col-xs-12">
+                  <time datetime="2017-01-27">
+                      <span class="day">27<small class="month">Jan</small></span>
+                      <span class="weekday">Fri</span>
+                      <span class="year">2017</span>
+                      <span class="time">ALL DAY</span>
+                  </time>
+
+                  <div class="info">
+                      <h2 class="title">Poker Night</h2>
+                  <p class="desc">Stop on by the house for some cards and revelry with the brothers</p><div class="social">
+                      <ul>
+                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+                      </ul>
+                  </div>
+              </li>
+              <li class="col-sm-6 col-xs-12">
+                  <time datetime="2017-01-30">
+                      <span class="day">30<small class="month">Jan</small></span>
+                      <span class="weekday">Mon</span>
+                      <span class="year">2017</span>
+                      <span class="time">ALL DAY</span>
+                  </time>
+
+                  <div class="info">
+                      <h2 class="title">Alumni Talk</h2>
+                  <p class="desc">Come hear a Triangle Alumnus talk about why Triangle is right for you!</p><div class="social">
+                      <ul>
+                          <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+                      </ul>
+                  </div>
+              </li>
+			  <li class="col-sm-6 col-xs-12">
+                    <time datetime="2017-01-31">
+                        <span class="day">31<small class="month">Jan</small></span>
+                        <span class="weekday">Tue</span>
+                        <span class="year">2017</span>
+                        <span class="time">ALL DAY</span>
+                    </time>
+
+                    <div class="info">
+                        <h2 class="title">Info Session</h2>
+                        <p class="desc">Stop on by for a thrilling presentation about Triangle!</p><div class="social">
                       <ul>
                           <li><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
                       </ul>
