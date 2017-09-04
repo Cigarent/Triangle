@@ -38,36 +38,15 @@
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td>Alec</td>
-                    <td>Pierce</td>
-                    <td> apierce2@wisc.edu</td>
-                    <td>&nbsp;</td>
-                </tr>
-                <tr>
-                    <td>Austin</td>
-                    <td>Mease</td>
-                    <td>amease@wisc.edu</td>
-                    <td>Polygon</td>
-                </tr>
-                <tr>
-                    <td>Blake</td>
-                    <td>Pluemer</td>
-                    <td>bpluemer@wisc.edu</td>
-                    <td>&nbsp;</td>
-                </tr>
-				<tr>
+                <tr><td>Andrew</td><td>Geng</td><td>ageng@wisc.edu</td><td>Secretary</td></tr>
+                <tr><td>Benjamin</td><td>Gordon</td><td>bgordon5@wisc.edu</td><td>Special Events</td></tr>
+				        <tr>
                     <td>Brodie</td>
                     <td>Gross</td>
                     <td>bgross3@wisc.edu</td>
-                    <td>IFC, Philanthropy & Community Service</td>
+                    <td>Recruitment</td>
                 </tr>
-                <tr>
-                    <td>Daniel</td>
-                    <td>Hayes</td>
-                    <td>dahayes@wisc.edu</td>
-                    <td>&nbsp;</td>
-                </tr>
+                <tr><td>Daniel</td><td>Wendt</td><td>dwendt3@wisc.edu</td><td>Philanthropy/Community Service</td></tr>
                 <tr>
                     <td>Evan</td>
                     <td>Schertz</td>
@@ -78,50 +57,34 @@
                     <td>Evan</td>
                     <td>Kivolowitz</td>
                     <td>ekivolowitz@wisc.edu</td>
-                    <td>Social</td>
+                    <td>Kitchen</td>
                 </tr>
-				<tr>
+				        <tr>
                     <td>Grant</td>
                     <td>Meadows</td>
                     <td>gmeadows@wisc.edu</td>
-                    <td>Editor</td>
+                    <td>IFC</td>
                 </tr>
-                <tr>
-                    <td>Grant </td>
-                    <td>Herrman</td>
-                    <td>gherrman@wisc.edu</td>
-                    <td>Editor</td>
-                </tr>
-				 <tr>
-                    <td>Haosong</td>
+				        <tr>
+                    <td>Jason</td>
                     <td>Ma</td>
                     <td>hma67@wisc.edu</td>
                     <td>&nbsp;</td>
                 </tr>
                 <tr>
-                    <td>Jason</td>
-                    <td>Salzsieder</td>
-                    <td>salzsieder@wisc.edu</td>
-                    <td>IFC</td>
-                </tr>
-                <tr>
                     <td>John</td>
                     <td>Klopatek</td>
                     <td>jklopatek@wisc.edu</td>
-                    <td>Academics</td>
+                    <td>Occupancy</td>
                 </tr>
                 <tr>
-                    <td>Jonathan</td>
+                    <td>Johnathan</td>
                     <td>Brandenburg</td>
                     <td>jjbrandenbur@wisc.edu</td>
-                    <td>Public Relations</td>
+                    <td></td>
                 </tr>
-                <tr>
-                    <td>Kevin</td>
-                    <td>Clark</td>
-                    <td>kwclark@wisc.edu</td>
-                    <td>&nbsp;</td>
-                </tr>
+                <tr><td>Jonas</td><td>Klare</td><td>klare@wisc.edu</td><td>Editor, Recruitment</td></tr>
+                <tr><td>Kevin</td><td>Sladowski</td><td>sladowski@wisc.edu</td><td>Fundraising</td></tr>
                 <tr>
                     <td>Kyle</td>
                     <td>Sirbasku</td>
@@ -129,65 +92,45 @@
                     <td>House Manager</td>
                 </tr>
                 <tr>
-                    <td>Matt</td>
-                    <td>Glattfelder</td>
-                    <td>glattfelder@wisc.edu</td>
-                    <td>&nbsp;</td>
-                </tr>
-                <tr>
                     <td>Mike</td>
                     <td>Pyrtko</td>
                     <td>pyrtko@wisc.edu</td>
-                    <td>Polygon</td>
+                    <td></td>
                 </tr>
-                <tr>
-                    <td>Mitchel</td>
-                    <td>Wanta </td>
-                    <td>mswanta@wisc.edu</td>
-                    <td>&nbsp;</td>
-                </tr>
+                <tr><td>Parth</td><td>Patel</td><td>ppatel33@wisc.edu</td><td>Public Relations</td></tr>
                 <tr>
                     <td>Paul</td>
                     <td>Smith</td>
                     <td>psmith24@wisc.edu</td>
-                    <td>IFC, Info Systems</td>
+                    <td></td>
                 </tr>
-				<tr>
+				        <tr>
                     <td>Sam</td>
                     <td>Topel</td>
                     <td>stopel2@wisc.edu</td>
-                    <td>&nbsp;</td>
+                    <td>Social, Alumni Relations</td>
                 </tr>
+                <tr><td>Siddarth</td><td>Ramesh</td><td>sramesh9@wisc.edu</td><td>Health and Wellness</td></tr>
                 <tr>
                     <td>Stephen</td>
                     <td>Mcmanus</td>
                     <td>smcmanus2@wisc.edu</td>
-                    <td>Vice President</td>
+                    <td>Vice President, Academics</td>
                 </tr>
                 <tr>
                     <td>Steven</td>
                     <td>Tang</td>
                     <td>rtang37@wisc.edu</td>
-                    <td>Recruitment, Office</td>
+                    <td>Recruitment</td>
                 </tr>
-                <tr>
-                    <td>Steven</td>
-                    <td>Zastrow</td>
-                    <td>szastrow2@wisc.edu</td>
-                    <td>&nbsp;</td>
-                </tr>
-                <tr>
-                    <td>Will </td>
-                    <td>Leng</td>
-                    <td>sleng3@wisc.edu</td>
-                    <td>&nbsp;</td>
-                </tr>
-				<tr>
+                <tr><td>William</td><td>Moen</td><td>wmoen@wisc.edu</td><td>WESC</td></tr>
+				        <tr>
                     <td>Xiao</td>
                     <td>He</td>
                     <td>xhe66@wisc.edu</td>
-                    <td>Treasury</td>
+                    <td>Treasury, Info Systems</td>
                 </tr>
+
             </tbody>
         </table>
         </table>
