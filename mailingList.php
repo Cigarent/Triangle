@@ -19,16 +19,16 @@ if(!file_exists(FILENAME)){
 	fwrite($handle, "$name, $email, $phone, $date, $comment.\n");
 	fclose($handle);
 
-	$message_text = "This is a email informing you that new potential- $name has subscribed to our mailing list. His EMAIL address: $email.";
+	$message_text = "This is a email informing you that a new potential- $name has subscribed to our mailing list. His email address: $email.";
 
 	if($phone!=""){
 		$message_text.=" PHONE NUMBER is $phone.";
 	}
 
 	// $recipients = "smcmanus2@wisc.edu";
-	$recipients = "xhe66@wisc.edu";
+	$recipients = "xhe66@wisc.edu, klare@wisc.edu, bgross3@wisc.edu, rtang37@wisc.edu";
 
-	mail($recipients, "New Potential", $message_text);
+	mail($recipients, "[Triangle Fraternity] New Potential", $message_text, $headers = 'From: recruitment@wis.triangle.org');
 
 	header("Location: rush.php");
 
