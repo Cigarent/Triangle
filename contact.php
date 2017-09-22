@@ -55,12 +55,21 @@
                 <div class="row">
                     <div class="col-lg-12 col-md-12">
                         <label for="comment">Comment</label>
-                        <textarea name="comment" class="form-control" rows="6" placeholder="If you just want to get update about rush events, leave this section empty."></textarea>
+                        <textarea name="comment" class="form-control" rows="5" placeholder="If you just want to get update about rush events, leave this section empty."></textarea>
                     </div>
                 </div>
                 <hr>
-                <input class="btn" style="border-radius:10px;" type="submit">
-
+                <div class="row">
+                  <div class="col-lg-6 col-md-6">
+                    <img id="captcha" src="/securimage/securimage_show.php" alt="CAPTCHA Image" />
+                    <a href="#" onclick="document.getElementById('captcha').src = '/securimage/securimage_show.php?' + Math.random(); return false">Different Image</a>
+                  </div>
+                  <div class="col-lg-6 col-md-6">
+                    <label class="require-asterisk" for="captcha_code">I'm not a robot</label>
+                    <input type="text" class="form-control" name="captcha_code" size="10" maxlength="8" required/>
+                    <input class="btn" style="border-radius:10px; margin-top:5px" type="submit">
+                  </div>
+                </div>
             </form>
         </div>
         <div class="col-lg-1">
