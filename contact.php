@@ -121,15 +121,15 @@
                     <div class="row">
                         <div class="col-lg-4">
                             <p>Recruitment
-                                <br><em>Steven Tang</em></p>
-                            <p>Phone: (617) 335-5386
-                                <br><a href="mailto:rtang37@wisc.edu">rtang37@wisc.edu</a></p>
+                                <br><em>Brodie Gross</em></p>
+                            <p>Phone: (608) 726-0129
+                                <br><a href="mailto:bgross3@wisc.edu">bgross3@wisc.edu</a></p>
                         </div>
                         <div class="col-lg-4">
                             <p>President
-                                <br><em>Evan Schertz</em></p>
-                            <p>Phone: 715-370-3949
-                                <br><a href="mailto:eshertz@wisc.edu">eschertz@wisc.edu</a></p>
+                                <br><em>Keving Sladowski</em></p>
+                            <p>Phone: (872) 202-2002
+                                <br><a href="mailto:sladowski@wisc.edu">sladowski@wisc.edu</a></p>
                         </div>
                         <div class="col-lg-4">
                             <p>Mailing Address</p>
