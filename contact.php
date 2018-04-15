@@ -128,7 +128,7 @@
                         <div class="col-lg-4">
                             <p>President
                                 <br><em>Keving Sladowski</em></p>
-                            <p>Phone: (872) 202-2002
+                            <p>Phone: (708) 506-0556
                                 <br><a href="mailto:sladowski@wisc.edu">sladowski@wisc.edu</a></p>
                         </div>
                         <div class="col-lg-4">
